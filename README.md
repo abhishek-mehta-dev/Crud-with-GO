@@ -1,27 +1,3 @@
-Here’s the full **README.md** file content you can drop directly into your repo 👇
-
-````markdown
-# crud-with-go
-
-A simple **CRUD API** built with **Go** and **MySQL**.  
-This project demonstrates how to build a production-ready REST API using Golang with database integration.  
-
----
-
-## 🚀 Features
-- Create, Read, Update, Delete users  
-- MySQL database integration  
-- Environment variable support (`.env`)  
-- Clean project structure  
-
----
-
-## 📦 Requirements
-- Go 1.20+  
-- MySQL 8+  
-- Git  
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -95,10 +71,3 @@ http://localhost:8080
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-```
